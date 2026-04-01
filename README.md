@@ -24,7 +24,6 @@ Dit dashboard overbrugt de kloof tussen verschillende generaties op de werkvloer
 - Snellere communicatie rondom planning en beschikbaarheid.
 
 ## 📸 Preview
-*(Hier kun je de screenshots plaatsen die je me eerder stuurde)*
 ![Dashboard Preview](assets/retail-dashboard.png)
 ![Scannings dashboard](assets/scannings-dashboard.png)
 ---
