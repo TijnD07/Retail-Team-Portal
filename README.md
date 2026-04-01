@@ -25,7 +25,7 @@ Dit dashboard overbrugt de kloof tussen verschillende generaties op de werkvloer
 
 ## 📸 Preview
 *(Hier kun je de screenshots plaatsen die je me eerder stuurde)*
-![Dashboard Preview](assets/preview_dashboard.png)
-
+![Dashboard Preview](assets/retail-dashboard.png)
+![Scannings dashboard](assets/scannings-dashboard.png)
 ---
 *Ontwikkeld door Tijn - 2026*
