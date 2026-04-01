@@ -3,7 +3,6 @@
 Een interactief, real-time dashboard ontwikkeld om de interne communicatie en efficiëntie op de werkvloer te verbeteren. Dit project is specifiek gebouwd voor een Kruidvat-filiaal om data uit complexe systemen (WatsOnline) te vertalen naar een gebruiksvriendelijke interface voor het hele team.
 
 ## 🌟 Belangrijkste Features
-- **Real-time 'Nu op de vloer':** Ziet direct welke collega's op dit moment ingepland staan.
 - **Interactief Weekrooster:** Navigeer eenvoudig door de week met een dynamische PHP-backend.
 - **Slimme Automatisering:** Een Node.js scraper haalt dagelijks automatisch de nieuwste roosters op.
 - **Centraal Hub:** Directe toegang tot scannings-dashboards, beschikbaarheidsformulieren en de filiaal-playlist.
