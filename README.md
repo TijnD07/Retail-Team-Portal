@@ -18,7 +18,7 @@ Een interactief, real-time dashboard ontwikkeld om de interne communicatie en ef
 - **Server:** Gehost op een Proxmox LXC container (Ubuntu/Nginx) met Cronjob automatisering.
 
 ## 📈 Impact
-Dit dashboard overbrugt de kloof tussen verschillende generaties op de werkvloer (16 tot 60+ jaar). Het elimineert de noodzaak voor complex inloggen op legacy-systemen voor simpele dagelijkse taken, wat resulteert in:
+Dit dashboard overbrugt de kloof tussen verschillende generaties op de werkvloer (16 tot 60+ jaar). Het zorgt ervoor dat iedereen makkelijker het dag rooster kan bekijken, wat resulteert in:
 - Hogere medewerkersbetrokkenheid.
 - Real-time inzicht in filiaalprestaties (scannings-targets).
 - Snellere communicatie rondom planning en beschikbaarheid.
