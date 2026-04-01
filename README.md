@@ -5,7 +5,7 @@ Een interactief, real-time dashboard ontwikkeld om de interne communicatie en ef
 ## 🌟 Belangrijkste Features
 - **Real-time 'Nu op de vloer':** Ziet direct welke collega's op dit moment ingepland staan.
 - **Interactief Weekrooster:** Navigeer eenvoudig door de week met een dynamische PHP-backend.
-- **Slimme Automatisering:** Een Node.js (Puppeteer) scraper haalt dagelijks automatisch de nieuwste roosters op.
+- **Slimme Automatisering:** Een Node.js scraper haalt dagelijks automatisch de nieuwste roosters op.
 - **Centraal Hub:** Directe toegang tot scannings-dashboards, beschikbaarheidsformulieren en de filiaal-playlist.
 - **Security First:** Toegang beveiligd met een filiaal-pincode en sessiebeheer.
 - **Mobile Responsive:** Volledig geoptimaliseerd voor gebruik op de werkvloer via smartphone.
